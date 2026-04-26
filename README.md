@@ -1,37 +1,35 @@
-# Hi there, I'm Yash Yadav! 👋
+# Yash Yadav | Physics + AI Research 🌌🤖
 
-I am a second-semester undergraduate student pursuing a B.Sc. in Physics, Mathematics, and Computer Science at Jain Deemed-to-be University, India. I am passionate about the intersection of **Physics**, **Mathematics**, and **Artificial Intelligence**.
+I am a **B.Sc. Physics, Mathematics, and Computer Science** student at Jain Deemed-to-be University with a passion for leveraging Artificial Intelligence to solve complex problems in **Cosmology** and **Theoretical Physics**.
 
-### 🎯 My Research Focus
-I am deeply interested in **Cosmology**, **General Relativity**, and **Theoretical Physics**. My current self-driven research explores light propagation in expanding spacetimes and the limitations of classical mechanics in relativistic regimes.
-
-### 💻 Computer Science & AI/ML
-I am actively developing skills in Python and machine learning to apply computational techniques to complex physics problems, from galaxy image analysis to medical elasticity mapping.
-
----
-
-### 🚀 Key Projects
-
-#### 🌌 [Galaxy-ML-Robustness](https://github.com/Yash5852176/Galaxy-ML-Robustness)
-Analyzing how noise and blur affect galaxy image analysis under realistic observational conditions using machine learning techniques.
-
-#### 📄 [PDF-Query-AI](https://github.com/Yash5852176/PDF-Query-AI)
-An AI-powered system that allows users to ask questions and receive intelligent answers from PDF documents using NLP and LLMs.
-
-#### 📡 [Satellite-Vision-ML](https://github.com/Yash5852176/Satellite-Vision-ML)
-Applying computer vision and machine learning models to satellite imagery to identify geographical and structural patterns.
-
-#### 🧬 [BioElastic-AI](https://github.com/Yash5852176/BioElastic-AI)
-Exploring how AI can assist in studying tissue elasticity for early disease detection, bridging Physics, Biology, and ML.
+### 🔬 Research Interests
+- **General Relativity & Cosmology:** Expanding spacetime, FLRW framework, and dark sector physics.
+- **Computational Astrophysics:** Using ML/DL to analyze weak-lensing galaxy images and structural patterns.
+- **Biophysical Modeling:** Applying elasticity mapping and machine learning to medical diagnostics.
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, C++, SQL
-- **AI/ML:** NumPy, Scikit-learn, Image Processing, NLP
-- **Physics:** FLRW Framework, General Relativity, Theoretical Modeling
+### 📂 Featured Projects
 
-### 📫 Connect with me
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Galaxy-ML-Robustness](https://github.com/Yash5852176/Galaxy-ML-Robustness)** | Analyzing noise/blur resilience in galaxy image interpretation. | Python, NumPy, SciPy |
+| **[PDF-Query-AI](https://github.com/Yash5852176/PDF-Query-AI)** | Intelligent document QA system using RAG and LLMs. | LangChain, HuggingFace, NLP |
+| **[Satellite-Vision-ML](https://github.com/Yash5852176/Satellite-Vision-ML)** | Deep learning models for structural pattern detection in satellite imagery. | PyTorch, OpenCV, Remote Sensing |
+| **[BioElastic-AI](https://github.com/Yash5852176/BioElastic-AI)** | AI-assisted mapping of tissue elasticity for early cancer detection. | Machine Learning, Biophysics |
+
+---
+
+### 🛠️ Technical Toolkit
+- **Languages:** `Python (Advanced)`, `C++`, `SQL` 
+- **AI & ML:** `PyTorch`, `Scikit-Learn`, `NumPy`, `Computer Vision`, `NLP` 
+- **Scientific Tools:** `LaTeX`, `FLRW Modeling`, `Relativistic Kinematics` 
+
+### 📨 Connect with me
 - 📧 [yadavyash0369@gmail.com](mailto:yadavyash0369@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yash-yadav-1183b626a)
 - 📍 Bangalore, India
+
+---
+
+*Currently seeking **Research/CS/AI Internships** for **June 2026**.* 🚀
